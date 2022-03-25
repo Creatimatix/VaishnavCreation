@@ -1018,9 +1018,9 @@
  .text-bg h1 {
      color: #000;
      padding-top: 50px;
-     font-size: 75px;
+     font-size: 40px;
      line-height: 94px;
-    padding-bottom: 25px;
+    padding-bottom: 0px;
     font-weight: bold;
 }
  
