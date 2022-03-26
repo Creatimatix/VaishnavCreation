@@ -1015,11 +1015,34 @@ nav.main-menu {
     line-height: 40px;
 }
 
-.logo a img {
+/* .logo a img {
     max-height:20vh;
- }
+ } */
 
 .d_flex {display: flex; align-items: center; justify-content: center;}
+
+@media screen and (max-width: 600px){
+
+     .text-bg h1 {
+          visibility: hidden;
+          color: #000;
+          padding-top: 50px;
+          font-size: 40px;
+          line-height: 94px;
+         padding-bottom: 5px;
+         font-weight: bold;
+      }
+      
+      .text-bg span {
+          visibility: hidden;
+         font-size:25px;
+          display: block;
+          color: #000;
+          line-height: 35px;
+          padding-bottom: 50px;
+      }
+
+}
 .text-bg h1 {
     color: #000;
     padding-top: 50px;
