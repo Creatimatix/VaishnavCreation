@@ -80,16 +80,16 @@
     <div class="container" >
          <div class="row">
             <div class="col-lg-12 text-center my-2">
-                   <h3 class="py-3"><a href="#">Vaishnav Creation</a></h3>
-               <h4>Our Work</h4>
+                   <!-- <h3 class="py-3"><a href="#">Vaishnav Creation</a></h3> -->
+               <!-- <h4>Our Work</h4> -->
             </div>
          </div>
          <div class="portfolio-menu mt-2 mb-4">
             <ul>
                <li class="btn btn-outline-dark active" data-filter="*">All</li>
-               <li class="btn btn-outline-dark" data-filter=".gts">Girls T-shirt</li>
-               <li class="btn btn-outline-dark" data-filter=".lap">Laptops</li>
-               <li class="btn btn-outline-dark" data-filter=".selfie">selfie</li>
+               <li class="btn btn-outline-dark" data-filter=".gts">Rings</li>
+               <li class="btn btn-outline-dark" data-filter=".lap">Chains</li>
+               <li class="btn btn-outline-dark" data-filter=".selfie">Bangles</li>
             </ul>
          </div>
          <div class="portfolio-item row">
