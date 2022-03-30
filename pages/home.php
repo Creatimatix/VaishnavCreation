@@ -6,7 +6,7 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage">
-                     <h2>Made with Love for you</h2>
+                     <h2>How it works?</h2>
                      <p> We are the renowned production company of jewellery items such as Rings, Necklaces, Bengals, Bracelets  etc., Our years of exeperience in designing and production helps us in making beautiful, elegant, affordble jewelleries.</p>
                   </div>
                </div>
@@ -17,8 +17,8 @@
                      <div class="row d_flex">
                         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                            <div class="best_text">
-                              <p>A reader will be distracted by the readable content of a page when looking at its layout. The point of using LoremIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem</p>
-                              <a href="#">See More</a>
+                              <p><h3>Choose the shape and outer diameter of plate required for the jewellery.</h3></p>
+                              <!-- <a href="#">See More</a> -->
                            </div>
                         </div>
                         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
@@ -39,8 +39,8 @@
                         </div>
                         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                            <div class="best_text flot_left">
-                              <p>A reader will be distracted by the readable content of a page when looking at its layout. The point of using LoremIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem</p>
-                              <a href="#">See More</a>
+                              <p><h3>   Select the diamond size and shape.</h3></p>
+                              <!-- <a href="#">See More</a> -->
                            </div>
                         </div>
                      </div>
@@ -49,8 +49,8 @@
                      <div class="row d_flex">
                         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                            <div class="best_text">
-                              <p>A reader will be distracted by the readable content of a page when looking at its layout. The point of using LoremIt is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem</p>
-                              <a href="#">See More</a>
+                              <p><h3>Choose the faceting required on the plate from our collection.</h3></p>
+                              <!-- <a href="#">See More</a> -->
                            </div>
                         </div>
                         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">

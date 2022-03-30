@@ -88,7 +88,7 @@
             <ul>
                <li class="btn btn-outline-dark active" data-filter="*">All</li>
                <li class="btn btn-outline-dark" data-filter=".gts">Rings</li>
-               <li class="btn btn-outline-dark" data-filter=".lap">Chains</li>
+               <li class="btn btn-outline-dark" data-filter=".lap">Necklace</li>
                <li class="btn btn-outline-dark" data-filter=".selfie">Bangles</li>
             </ul>
          </div>
