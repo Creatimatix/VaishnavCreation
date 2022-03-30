@@ -933,7 +933,7 @@ nav.main-menu {
     display: inline-block;
     vertical-align: middle;
 }
-.main-menu ul>li:nth-child (6) {
+.main-menu ul>li:nth-child(6) {
     padding-right: 0px;
 }
 .nav>li {
@@ -1402,6 +1402,17 @@ font-family: 'bodoniflfmedium_italic';
 font-style: italic;
     
 }
+
+.slogan h3 {
+    font-size: 25px;
+    line-height: 40px;
+    color: rgb(255, 199, 44);
+    padding-bottom: 33px;
+    font-family: 'bodoniflfmedium_italic';
+    font-style: italic;
+        
+}
+
 .call_now2 span {
     font-size: 20px;
     line-height: 30px;
