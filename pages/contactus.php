@@ -24,6 +24,7 @@
                             <li> <a href="#jewellery">jewellery</a> </li>
                             <li> <a href="contactus.php">Contact Us</a> </li>
                             <li> <a href="gallary.php">Gallary</a> </li>
+                            <li> <a href="AboutUs.php">About Us</a> </li>
                             <li> <a href="#clients">Our Clients</a> </li>
                             </ul>
                         </nav>
