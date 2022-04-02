@@ -20,7 +20,7 @@
             </div>
             <div class="copyright">
                <div class="container">
-                  <p>© 2022 All Rights Reserved. <a href="#">Vaishnav Creation</a></p>
+                  <p>© <?php echo date('Y'); ?> All Rights Reserved. <a href="#">Vaishnav Creation</a></p>
                </div>
             </div>
          </div>

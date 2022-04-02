@@ -80,23 +80,23 @@
             <div class="row">
                <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
                   <div class="contact">
-                     <form>
+                     <form method="POST" id="contactus-form">
                         <div class="row">
-                           <div class="col-sm-12">
-                              <input class="contactus" placeholder="Name" type="text" name="Name">
-                           </div>
-                           <div class="col-sm-12">
-                              <input class="contactus" placeholder="Phone Number" type="text" name="Phone Number">
-                           </div>
-                           <div class="col-sm-12">
-                              <input class="contactus" placeholder="Email" type="text" name="Email">
-                           </div>
-                           <div class="col-sm-12">
-                              <textarea class="textarea" placeholder="Message" type="text" name="Message"></textarea>
-                           </div>
-                           <div class="col-sm-12">
-                              <button class="send">Send</button>
-                           </div>
+                              <div class="col-sm-12 text-div">
+                                 <input class="contactus" placeholder="Name" type="text" id="fullname" name="fullname">
+                              </div>
+                              <div class="col-sm-12 text-div">
+                                 <input class="contactus" placeholder="Phone Number" type="text" id="number" name="number">
+                              </div>
+                              <div class="col-sm-12 text-div">
+                                 <input class="contactus" placeholder="Email" id="email"  type="text" name="email">
+                              </div>
+                              <div class="col-sm-12 text-div">
+                                 <textarea class="textarea" placeholder="Message" id="message"  type="text" name="message"></textarea>
+                              </div>
+                              <div class="col-sm-12 text-div">
+                                 <input type="submit" class="send" name="submit" value="Submit" id="contactSubmitBtn">
+                              </div>
                         </div>
                      </form>
                   </div>

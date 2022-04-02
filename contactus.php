@@ -40,25 +40,6 @@
       <script src="js/popper.min.js"></script>
       <script src="js/bootstrap.bundle.min.js"></script>
       <script src="js/jquery-3.0.0.min.js"></script>
-       <script>
-         $("#idForm").submit(function(e) {
-
-            e.preventDefault(); // avoid to execute the actual submit of the form.
-
-            var form = $(this);
-            var actionUrl = form.attr('action');
-
-            $.ajax({
-               type: "POST",
-               url: actionUrl,
-               data: form.serialize(), // serializes the form's elements.
-               success: function(data)
-               {
-                  alert(data); // show response from the php script.
-               }
-            });
-
-            });
-      </script>
+      <script src="js/contact.js"></script>
    </body>
 </html>

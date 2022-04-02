@@ -20,11 +20,12 @@
                     <div class="limit-box">
                         <nav class="main-menu">
                             <ul class="menu-area-main">
-                            <li class="active"> <a href="index.php">Home</a> </li>
-                            <li> <a href="#jewellery">jewellery</a> </li>
-                            <li> <a href="contactus.php">Contact Us</a> </li>
-                            <li> <a href="gallary.php">Gallary</a> </li>
-                            <li> <a href="#clients">Our Clients</a> </li>
+                                <li class="active"> <a href="index.php">Home</a> </li>
+                                <li> <a href="index.php#jewellery">jewellery</a> </li>
+                                <li> <a href="index.php#clients">Our Clients</a> </li>
+                                <li> <a href="gallary.php">Gallery</a> </li>
+                                <li> <a href="AboutUs.php">About Us</a> </li>
+                                <li> <a href="contactus.php">Contact Us</a> </li>
                             </ul>
                         </nav>
                     </div>
@@ -48,7 +49,7 @@
 </header>
 
 <!-- contact -->
-<div id="contact" class="contact" style="margin-bottom: 63px;">
+<div id="contact" class="contact" >
     <div class="container">
     <div class="row">
         <div class="col-md-12">
@@ -61,22 +62,22 @@
     <div class="row">
         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
             <div class="contact">
-                <form action="http://localhost/VaishnavCreation-master/contactSubmit.php" method="POST">
+                <form method="POST" id="contactus-form">
                     <div class="row">
-                        <div class="col-sm-12">
-                            <input class="contactus" placeholder="Name" type="text" name="Name">
+                        <div class="col-sm-12 text-div">
+                            <input class="contactus" placeholder="Name" type="text" id="fullname" name="fullname">
                         </div>
-                        <div class="col-sm-12">
-                            <input class="contactus" placeholder="Phone Number" type="text" name="Phone Number">
+                        <div class="col-sm-12 text-div">
+                            <input class="contactus" placeholder="Phone Number" type="text" id="number" name="number">
                         </div>
-                        <div class="col-sm-12">
-                            <input class="contactus" placeholder="Email" type="text" name="Email">
+                        <div class="col-sm-12 text-div">
+                            <input class="contactus" placeholder="Email" id="email"  type="text" name="email">
                         </div>
-                        <div class="col-sm-12">
-                            <textarea class="textarea" placeholder="Message" type="text" name="Message"></textarea>
+                        <div class="col-sm-12 text-div">
+                            <textarea class="textarea" placeholder="Message" id="message"  type="text" name="message"></textarea>
                         </div>
-                        <div class="col-sm-12">
-                            <input type="submit" class="send" name="submit" value="Submit">
+                        <div class="col-sm-12 text-div">
+                            <input type="submit" class="send" name="submit" value="Submit" id="contactSubmitBtn">
                         </div>
                     </div>
                 </form>
