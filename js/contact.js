@@ -27,7 +27,7 @@ $("#contactus-form").submit(function(e) {
     if(valid){
         $.ajax({
             type: "POST",
-            url: 'http://localhost/fullstack/VaishnavCreation/contactSubmit.php',
+            url: 'http://vaishnavcreation.in/contactSubmit.php',
             data: form.serialize(), // serializes the form's elements.
             dataType: "json",
             success: function(response)
