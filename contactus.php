@@ -21,6 +21,8 @@
       <!-- fevicon -->
       <link rel="icon" href="images/fevicon.png" type="image/gif" />
       <!-- Scrollbar Custom CSS -->
+
+      <link rel="stylesheet" type="text/css" href="css/toastr.min.css">
    </head>
    <!-- body -->
    <body class="main-layout">
@@ -41,5 +43,6 @@
       <script src="js/bootstrap.bundle.min.js"></script>
       <script src="js/jquery-3.0.0.min.js"></script>
       <script src="js/contact.js"></script>
+      <script type="text/javascript" src="js/toastr.min.js"></script>
    </body>
 </html>

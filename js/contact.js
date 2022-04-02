@@ -23,11 +23,10 @@ $("#contactus-form").submit(function(e) {
     var form = $(this);
     var valid;	
     valid = validateContact();
-    console.log('valid => ',valid);
     if(valid){
         $.ajax({
             type: "POST",
-            url: 'http://vaishnavcreation.in/contactSubmit.php',
+            url: 'http://localhost/fullstack/VaishnavCreation/contactSubmit.php',
             data: form.serialize(), // serializes the form's elements.
             dataType: "json",
             success: function(response)
