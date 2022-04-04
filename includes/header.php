@@ -9,7 +9,7 @@
                 <div class="full">
                     <div class="center-desk">
                         <div class="logo">
-                            <a href="index.html"><img src="images/logo1.png" alt="#" /></a>
+                            <a href="index.php"><img src="images/logo1.png" alt="#" /></a>
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                         <!-- <a href="#">Contact Us</a> -->
                         
                     </div>
-                    <a class="whats-app" href="https://api.whatsapp.com/send/?phone=919561655364&text=Hi&app_absent=0">
+                    <a class="whats-app" href="https://api.whatsapp.com/send/?phone=917666662824&text=Hi,+I+am+interested+in+enquiry%21&app_absent=0">
                         <i class="fa fa-whatsapp my-float"></i>
                     </a>
                 </div>
