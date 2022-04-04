@@ -48,6 +48,7 @@
     </section>
     
     </div>
+    
 </header>
 
 <!-- contact -->
@@ -97,4 +98,5 @@
 <div class="responsive-map">
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60189.36619664327!2d72.74298891835149!3d19.462662815969995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7aa49b828c6a5%3A0xbefe4c41a14ad251!2sVirar%20West%2C%20Virar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1648368207971!5m2!1sen!2sin" width="100%" height="450" style="border:0;margin-bottom: -9px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
 <!-- end contact -->

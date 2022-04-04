@@ -20,6 +20,8 @@
       <link rel="stylesheet" href="css/responsive.css">
       <!-- fevicon -->
       <link rel="icon" href="images/fevicon.png" type="image/gif" />
+      
+      <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css" />
       <style>
         .portfolio-item > div{
@@ -151,6 +153,7 @@
             </div>
          </div>
       </div>
+      
 
       <!--  footer -->
         <?php require_once('includes/footer.php'); ?>
@@ -159,6 +162,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js"></script>
 
+    
 
     <script>
         $('.portfolio-menu ul li').click(function(){
@@ -181,5 +185,15 @@
             });
         });
     </script>
+     <!-- Javascript files-->
+     <script src="js/jquery.min.js"></script>
+      <script src="js/popper.min.js"></script>
+      <script src="js/bootstrap.bundle.min.js"></script>
+      <script src="js/jquery-3.0.0.min.js"></script>
+      <script src="js/plugin.js"></script>
+      <!-- sidebar -->
+      <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+      <script src="js/custom.js"></script>
+      <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
    </body>
 </html>
