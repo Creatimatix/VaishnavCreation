@@ -42,7 +42,9 @@
                 
             </div>
         </div>
-    
+        <a class="whats-app" href="https://api.whatsapp.com/send/?phone=917666662824&text=Hi,+I+am+interested+in+enquiry%21&app_absent=0">
+                        <i class="fa fa-whatsapp my-float"></i>
+                    </a>
     </section>
     
     </div>
