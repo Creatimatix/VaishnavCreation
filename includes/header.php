@@ -49,7 +49,7 @@
                         <!-- <a href="#">Contact Us</a> -->
                         
                     </div>
-                    <a class="whats-app" href="https://api.whatsapp.com/send/?phone=917666662824&text=Hi,+I+am+interested+in+enquiry%21&app_absent=0">
+                    <a class="whats-app" href="https://api.whatsapp.com/send/?phone=917666662824&text=Hi+Vaishnav+Creation+team,+I+am+interested+in+your+products.+Can+you+please+share+more+details%3F&app_absent=0">
                         <i class="fa fa-whatsapp my-float"></i>
                     </a>
                 </div>
