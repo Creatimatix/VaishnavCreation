@@ -1016,13 +1016,15 @@ nav.main-menu {
     line-height: 40px;
 }
 
-/* .logo a img {
+.logo a img {
     max-height:20vh;
- } */
+ }
 
 .d_flex {display: flex; align-items: center; justify-content: center;}
 
 @media screen and (max-width: 600px){
+
+    
 
      .text-bg h1 {
           visibility: hidden;
