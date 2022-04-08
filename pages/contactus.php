@@ -88,7 +88,7 @@
         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
             <div class="rable-box">
                 <figure>
-                <img src="images/cac.png" alt="#" />
+                <img src="images/diamond.gif" alt="#" />
             </div>
         </div>
     </div>
