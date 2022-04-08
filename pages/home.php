@@ -17,7 +17,7 @@
                      <div class="row d_flex">
                         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                            <div class="best_text">
-                              <p><h3>Choose the shape and outer diameter of plate required for the jewellery.</h3></p>
+                              <p><h2>CHOOSE YOUR <b>SETTING</b></h2></p>
                               <!-- <a href="#">See More</a> -->
                            </div>
                         </div>
@@ -39,7 +39,7 @@
                         </div>
                         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                            <div class="best_text flot_left">
-                              <p><h3>   Select the diamond size and shape.</h3></p>
+                              <p><h2>    CHOOSE YOUR <b>DIAMOND</b></h2></p>
                               <!-- <a href="#">See More</a> -->
                            </div>
                         </div>
@@ -49,7 +49,7 @@
                      <div class="row d_flex">
                         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                            <div class="best_text">
-                              <p><h3>Choose the faceting required on the plate from our collection.</h3></p>
+                              <p><h2>SEE YOUR <b>PERSONALISED RING</b></h2></p>
                               <!-- <a href="#">See More</a> -->
                            </div>
                         </div>
