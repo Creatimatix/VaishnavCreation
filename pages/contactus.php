@@ -10,7 +10,7 @@
                 <div class="full">
                     <div class="center-desk">
                         <div class="logo">
-                            <a href="index.php"><img src="images/logo1.png" alt="#" /></a>
+                            <a href="index.php"><img src="images/logo.png" alt="#" /></a>
                         </div>
                     </div>
                 </div>
@@ -22,7 +22,6 @@
                             <ul class="menu-area-main">
                                 <li class="active"> <a href="index.php">Home</a> </li>
                                 <li> <a href="index.php#jewellery">jewellery</a> </li>
-                                <li> <a href="index.php#clients">Our Clients</a> </li>
                                 <li> <a href="gallary.php">Gallery</a> </li>
                                 <li> <a href="AboutUs.php">About Us</a> </li>
                                 <li> <a href="contactus.php">Contact Us</a> </li>

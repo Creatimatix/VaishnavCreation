@@ -44,7 +44,7 @@
                         <div class="full">
                             <div class="center-desk">
                                 <div class="logo">
-                                    <a href="index.php"><img src="images/logo1.png" alt="#" /></a>
+                                    <a href="index.php"><img src="images/logo.png" alt="#" /></a>
                                 </div>
                             </div>
                         </div>
@@ -56,7 +56,6 @@
                                     <ul class="menu-area-main">
                                         <li class="active"> <a href="index.php">Home</a> </li>
                                         <li> <a href="index.php#jewellery">jewellery</a> </li>
-                                        <li> <a href="index.php#clients">Our Clients</a> </li>
                                         <li> <a href="gallary.php">Gallery</a> </li>
                                         <li> <a href="AboutUs.php">About Us</a> </li>
                                         <li> <a href="contactus.php">Contact Us</a> </li>
@@ -90,14 +89,14 @@
                <!-- <h4>Our Work</h4> -->
             </div>
          </div>
-         <div class="portfolio-menu mt-2 mb-4">
+         <!-- <div class="portfolio-menu mt-2 mb-4">
             <ul>
                <li class="btn btn-outline-dark active" data-filter="*">All</li>
                <li class="btn btn-outline-dark" data-filter=".rings">Rings</li>
                <li class="btn btn-outline-dark" data-filter=".necklace">Necklace</li>
                <li class="btn btn-outline-dark" data-filter=".others">Others</li>
             </ul>
-         </div>
+         </div> -->
          <div class="portfolio-item row" id="gallery_images">
 
          <!-- for each image -->

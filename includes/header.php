@@ -9,7 +9,7 @@
                 <div class="full">
                     <div class="center-desk">
                         <div class="logo">
-                            <a href="index.php"><img src="images/logo1.png" alt="#" /></a>
+                            <a href="index.php"><img src="images/logo.png" alt="#" /></a>
                         </div>
                     </div>
                 </div>
@@ -21,7 +21,6 @@
                             <ul class="menu-area-main">
                                 <li class="active"> <a href="index.php">Home</a> </li>
                                 <li> <a href="index.php#jewellery">jewellery</a> </li>
-                                <li> <a href="index.php#clients">Our Clients</a> </li>
                                 <li> <a href="gallary.php">Gallery</a> </li>
                                 <li> <a href="AboutUs.php">About Us</a> </li>
                                 <li> <a href="contactus.php">Contact Us</a> </li>
@@ -55,7 +54,7 @@
                 </div>
                 <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                     <div class="text-img">
-                        <figure><img src="images/img.png" /></figure>
+                        <!-- <figure><img src="images/diamond.gif" /></figure> -->
                     </div>
                 </div>
                 </div>
