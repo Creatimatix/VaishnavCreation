@@ -95,7 +95,7 @@
     </div>
 </div>
 <div class="responsive-map">
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d60189.36619664327!2d72.74298891835149!3d19.462662815969995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7aa49b828c6a5%3A0xbefe4c41a14ad251!2sVirar%20West%2C%20Virar%2C%20Maharashtra!5e0!3m2!1sen!2sin!4v1648368207971!5m2!1sen!2sin" width="100%" height="450" style="border:0;margin-bottom: -9px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3763.6212334409765!2d72.83209206428113!3d19.385546497208324!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7aec3f8ff12c5%3A0xe3356f9957d0326f!2sNavghar%20Road%2C%20Samarth%20Krupa%20Nagar%2C%20Vasai%20East%2C%20Navghar-Manikpur%2C%20Maharashtra%20401208!5e0!3m2!1sen!2sin!4v1649854250626!5m2!1sen!2sin" width="100%" height="450" style="border:0;margin-bottom: -9px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <!-- end contact -->
