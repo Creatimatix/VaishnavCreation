@@ -7,7 +7,7 @@
                <div class="col-md-12">
                   <div class="titlepage">
                      <h2>How it works?</h2>
-                     <p> We are the renowned production company of jewellery items such as Rings, Necklaces, Bengals, Bracelets  etc., Our years of exeperience in designing and production helps us in making beautiful, elegant, affordble jewelleries.</p>
+                     <p> Whatever your budget preference or specific requirements, We strive to make all your Jewellery.</p>
                   </div>
                </div>
             </div>
@@ -24,7 +24,7 @@
                         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
                            <div class="best_img">
                               <!-- <h4>Best Design in market</h4> -->
-                              <figure><img src="images/beimg.png"></figure>
+                              <figure><img src="https://graphics.jst.ai/108659_1125202063920AM_0.2508356_.jpg"></figure>
                            </div>
                         </div>
                      </div>
@@ -34,7 +34,7 @@
                         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
                            <div class="best_img croos_rt">
                               <!-- <h4>Design you can trust</h4> -->
-                              <figure><img src="images/beimg2.png"></figure>
+                              <figure><img src="https://graphics.jst.ai/108659_811202013917PM_0.4996912_.jpg"></figure>
                            </div>
                         </div>
                         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
@@ -56,7 +56,7 @@
                         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
                            <div class="best_img d_none">
                               <!-- <h4>Jewellery to remember</h4> -->
-                              <figure><img src="images/beimg3.png"></figure>
+                              <figure><img src="https://graphics.jst.ai/108659_1125202065233AM_0.9863397_.jpg"></figure>
                            </div>
                         </div>
                      </div>
