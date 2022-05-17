@@ -110,7 +110,9 @@ a, .btn {
     transition: all .3s ease-in-out;
 }
 img {
-    max-width: 100%;
+    margin-top: -10%;
+    margin-left: -28%;
+    max-width: 150%;
     height: auto;
 }
 :focus {
@@ -1018,7 +1020,7 @@ nav.main-menu {
 }
 
 .logo a img {
-    max-height:50vh;
+    max-height:100vh;
  }
 
 .d_flex {display: flex; align-items: center; justify-content: center;}
