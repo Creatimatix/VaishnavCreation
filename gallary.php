@@ -89,25 +89,26 @@
                <!-- <h4>Our Work</h4> -->
             </div>
          </div>
-         <!-- <div class="portfolio-menu mt-2 mb-4">
+         <div class="portfolio-menu mt-2 mb-4">
             <ul>
                <li class="btn btn-outline-dark active" data-filter="*">All</li>
-               <li class="btn btn-outline-dark" data-filter=".rings">Rings</li>
-               <li class="btn btn-outline-dark" data-filter=".necklace">Necklace</li>
-               <li class="btn btn-outline-dark" data-filter=".others">Others</li>
+               <li class="btn btn-outline-dark" data-filter=".cut">Cut</li>
+               <li class="btn btn-outline-dark" data-filter=".oval">Oval</li>
+               <li class="btn btn-outline-dark" data-filter=".square">Square</li>
             </ul>
-         </div> -->
+         </div>
          <div class="portfolio-item row" id="gallery_images">
 
          <!-- for each image -->
             <script>
                 var mydata = JSON.parse(data);
+                var galaryData =  galaryData;
                     // alert(mydata[0]);
-                    for(var i=0;i<mydata.length;i++){                        
+                    for(var i=0;i<galaryData.length;i++){                        
                     document.getElementById("gallery_images").innerHTML += 
-                        "<div class='item "+mydata[i].type+" col-lg-3 col-md-4 col-6 col-sm'>"
-                        +"<a href='"+mydata[i].path+"' class='fancylight popup-btn' data-fancybox-group='light'>"
-                        +"<img class='img-fluid' src='"+mydata[i].path+"' alt=''>"
+                        "<div class='item "+galaryData[i].type+" col-lg-3 col-md-4 col-6 col-sm'>"
+                        +"<a href='"+galaryData[i].path+"' class='fancylight popup-btn' data-fancybox-group='light'>"
+                        +"<img class='img-fluid' src='"+galaryData[i].path+"' alt=''>"
                         +"</a>"
                         +"</div>";
                     }
@@ -123,9 +124,9 @@
       <!--  footer -->
         <?php require_once('includes/footer.php'); ?>
       <!-- end footer -->
-    <script src="js/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js"></script>
+      <script src="js/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script> 
+    <script src="js/isotope.pkgd.js"></script>
+    <script src="js/jquery.magnific-popup.js"></script>
 
     
 
@@ -133,12 +134,11 @@
      <!-- <script src="js/jquery.min.js"></script> -->
       <script src="js/popper.min.js"></script>
       <script src="js/bootstrap.bundle.min.js"></script>
-      <script src="js/jquery-3.0.0.min.js"></script>
       <script src="js/plugin.js"></script>
       <!-- sidebar -->
       <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
       <script src="js/custom.js"></script>
-      <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+      <script src="js/jquery.fancybox.min.js"></script>
       <script>
         $('.portfolio-menu ul li').click(function(){
         $('.portfolio-menu ul li').removeClass('active');

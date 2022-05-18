@@ -23,6 +23,9 @@
       <!-- Scrollbar Custom CSS -->
       <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
       <link rel="stylesheet" type="text/css" href="css/toastr.min.css">
+      
+      <script src="js/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+      <!-- <script src="js/jquery-3.0.0.min.js"></script> -->
    </head>
    <!-- body -->
    <body class="main-layout">
@@ -36,15 +39,15 @@
       <!--  footer -->
       <?php require_once('includes/footer.php'); ?>
        <!-- Javascript files-->
-       <script src="js/jquery.min.js"></script>
+      
       <script src="js/popper.min.js"></script>
       <script src="js/bootstrap.bundle.min.js"></script>
-      <script src="js/jquery-3.0.0.min.js"></script>
       <script src="js/plugin.js"></script>
       <!-- sidebar -->
       <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
       <script src="js/custom.js"></script>
-      <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+      <script src="js/contact.js"></script>
+     
       <!-- end footer -->
       <!-- Javascript files-->
       <script>
@@ -90,5 +93,6 @@
 
          });
       </script>
+      <script src="js/toastr.js"></script>
    </body>
 </html>
