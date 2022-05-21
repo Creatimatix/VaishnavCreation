@@ -65,10 +65,9 @@
         <div class="col-xl-12 col-lg-12 col-md-12 col-sm-12">
             <div class="contact">
             <p><h4> Established in 2008 Vaishnav Creation is India's leading findings jewellery company. We are independent business specialized in miracle plates.</br></br>
-Our journey is lovingly handcrafted in our very own purpose build workshop, which is based interest of Vasai taluka, Maharashtra. Each exquisitely made in precious metal. Our highly skilled team of designers, craftsmen and specialists are dedicated for creating and producing new stunning designs, which are worn and cherished by jewellery lovers from all around the world.
-We specialise in miracle plate ranging from 1.5mm to 10mm in various cuts and shapes. i.e. round, princess, marquise, pears, oval, heart and flower.</br></br>
-Here, at Vaishnav Creation you will be spoilt for choices with our range of miracle plates. If you are looking for something more personalised than our experts would be delighted to help you create a beautiful and timeless masterpiece of jewellery.</br></br>
-Whatever the case maybe, if you have something very specific in mind or a particular shape, design or cut, our team of craftsmen can tailor your design to meet that exact requirement, creating piece of timeless jewellery which will be with you and your family for many years to come.<br></h4>
+            Our jewellery is lovingly handcrafted in our very own purpose build workshop, which is based in heart of Vasai taluka, Maharashtra. Each exquisitely made in precious metal. Our highly skilled team of designers, craftsmen and specialists are dedicated for creating and producing new stunning designs, which are worn and cherished by jewellery lovers from all around the world. We specialise in miracle plate ranging from 1.5mm to 10mm in various sizes,cuts and shapes. i.e. round, princess, marquise, pears, oval, heart and flower.</br></br>
+            Here, at Vaishnav Creation you will be spoilt for choices with our range of miracle plates. If you are looking for something more personalised than our experts would be delighted to help you create a beautiful and timeless masterpiece of jewellery.</br></br>
+            Whatever the case maybe, if you have something very specific in mind or a particular shape, design or cut, our team of craftsmen can tailor your design to meet that exact requirement, creating piece of timeless jewellery which will be with you and your family for many years to come.<br></h4>
 </p>
             </div>
         </div>

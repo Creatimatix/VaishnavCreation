@@ -91,24 +91,23 @@
          </div>
          <div class="portfolio-menu mt-2 mb-4">
             <ul>
-               <li class="btn btn-outline-dark active" data-filter="*">All</li>
-               <li class="btn btn-outline-dark" data-filter=".cut">Cut</li>
-               <li class="btn btn-outline-dark" data-filter=".oval">Oval</li>
-               <li class="btn btn-outline-dark" data-filter=".square">Square</li>
+               <!-- <li class="btn btn-outline-dark" data-filter="*">All</li> -->
+               <li class="btn btn-outline-dark active" data-filter=".product">Our product</li>
+               <li class="btn btn-outline-dark" data-filter=".photos">Photos</li>
             </ul>
          </div>
          <div class="portfolio-item row" id="gallery_images">
 
          <!-- for each image -->
             <script>
-                var mydata = JSON.parse(data);
-                var galaryData =  galaryData;
+                // var mydata = JSON.parse(data);
+                var _gallaryData =  gallaryData;
                     // alert(mydata[0]);
-                    for(var i=0;i<galaryData.length;i++){                        
+                    for(var i=0;i<_gallaryData.length;i++){                        
                     document.getElementById("gallery_images").innerHTML += 
-                        "<div class='item "+galaryData[i].type+" col-lg-3 col-md-4 col-6 col-sm'>"
-                        +"<a href='"+galaryData[i].path+"' class='fancylight popup-btn' data-fancybox-group='light'>"
-                        +"<img class='img-fluid' src='"+galaryData[i].path+"' alt=''>"
+                        "<div class='item "+_gallaryData[i].type+" col-lg-3 col-md-4 col-6 col-sm'>"
+                        +"<a href='"+_gallaryData[i].path+"' class='fancylight popup-btn' data-fancybox-group='light'>"
+                        +"<img class='img-fluid' src='"+_gallaryData[i].path+"' alt=''>"
                         +"</a>"
                         +"</div>";
                     }
