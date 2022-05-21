@@ -22,6 +22,7 @@
       <link rel="icon" href="images/fevicon.png" type="image/gif" />
       <script type="text/javascript" src="imageList.js"></script>
       <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+      <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css" />
       <style>
         .portfolio-item > div{
@@ -92,7 +93,7 @@
          <div class="portfolio-menu mt-2 mb-4">
             <ul>
                <!-- <li class="btn btn-outline-dark" data-filter="*">All</li> -->
-               <li class="btn btn-outline-dark active" data-filter=".product">Our product</li>
+               <li id='default_button' class="btn btn-outline-dark active" data-filter=".product">Our product</li>
                <li class="btn btn-outline-dark" data-filter=".photos">Photos</li>
             </ul>
          </div>
@@ -111,7 +112,11 @@
                         +"</a>"
                         +"</div>";
                     }
+
+
+                   
             </script>
+
            
 
             <!-- Till here -->
@@ -157,6 +162,9 @@
                     enabled : true
                 }
             });
+
+            var button_default = document.getElementById("default_button");
+                    button_default.click();
         });
     </script>
    </body>
