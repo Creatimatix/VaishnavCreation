@@ -83,7 +83,7 @@
             </section>
         </div>
     </header> 
-    <div class="container" >
+    <div class="container gallery_section" >
          <div class="row">
             <div class="col-lg-12 text-center my-2">
                    <!-- <h3 class="py-3"><a href="#">Vaishnav Creation</a></h3> -->

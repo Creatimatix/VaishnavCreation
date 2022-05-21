@@ -1024,6 +1024,9 @@ nav.main-menu {
     max-width: 150%;
  }
 
+ .gallery_section{
+    margin-top: 120px;
+}
 .d_flex {display: flex; align-items: center; justify-content: center;}
 
 @media screen and (max-width: 600px){
@@ -1544,6 +1547,11 @@ background-position: center;
  /*Home slider*/
 
 @media (min-width: 768px) {
+
+    .gallery_section{
+        margin-top: 0px;
+    }
+    
 
     /* show 3 items */
     .carousel-inner .active,
