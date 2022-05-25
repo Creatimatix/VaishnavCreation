@@ -166,6 +166,10 @@
             var button_default = document.getElementById("default_button");
                     button_default.click();
         });
+
+        $(window).load(function(){
+            $('#default_button').trigger('click');
+        });
     </script>
    </body>
 </html>
