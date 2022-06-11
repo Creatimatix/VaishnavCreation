@@ -6,7 +6,8 @@
                   <div class="col-md-6">
                      <div class="call_now2">
                         <!-- --- Change font size to small  -->
-                        <h3>Weaving dreams into precious stones to create jewellery that dazzle every gaze. </h3>
+                        <!-- <h3>Weaving dreams into precious stones to create jewellery that dazzle every gaze. </h3> -->
+                        <h3>Play creatively with smart illusion jewellery. </h3>
                         <span>Call us to experience a new jewellery world !</span>
                      </div>
                   </div>

@@ -28,7 +28,7 @@
       <!-- <script src="js/jquery-3.0.0.min.js"></script> -->
    </head>
    <!-- body -->
-   <body class="main-layout">
+   <body class="main-layout" style="overflow-x: hidden;">
       <!-- loader  -->
       <!-- <div class="loader_bg">
          <div class="loader"><img src="images/loading.gif" alt="#" /></div>
