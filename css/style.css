@@ -1052,6 +1052,16 @@ nav.main-menu {
           padding-bottom: 50px;
       }
 
+      a.carousel-control-prev.btn_prev {
+        right: 5px !important;
+        left: unset;
+    }
+    .carousel-inner
+    {
+        padding-left: 0px !important;
+    }
+    
+
 }
 .text-bg h1 {
     color: rgb(239, 232, 232);
@@ -1644,4 +1654,26 @@ img.img-fluid.mx-auto.d-block {
     margin: 3px;
     padding: 3px;
     border: 2px solid;
+}
+
+
+a.carousel-control-next.text-faded.btn_next{
+    background-color: black;
+    left: -32px !important;
+    width: 42px !important;
+}
+
+a.carousel-control-prev.btn_prev {
+    background: black;
+    right: 10px;
+    width: 39px;
+    left: unset;
+}
+.carousel-inner
+{
+    padding-left: 19px;
+}
+
+.sr-only{
+    display: contents;
 }
