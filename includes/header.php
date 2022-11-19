@@ -26,6 +26,9 @@
                                 <li> <a href="contactus.php">Contact Us</a> </li>
                             </ul>
                         </nav>
+                        <div class="bannerMobileImg">
+                            <figure><img src="images/homeBannerImg.png" /></figure>
+                        </div>
                     </div>
                 </div>
                 </div>
@@ -53,8 +56,8 @@
                     </a>
                 </div>
                 <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
-                    <div class="text-img">
-                        <!-- <figure><img src="images/diamond.gif" /></figure> -->
+                    <div class="text-img bannerDestopImg">
+                        <figure><img src="images/homeBannerImg.png" /></figure>
                     </div>
                 </div>
                 </div>

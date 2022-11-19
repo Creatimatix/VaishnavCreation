@@ -13,10 +13,10 @@
                   </div>
                   <div class="col-md-6">
                      <div class="call_now">
-                        <h3> <i class="fa fa-phone my-float"></i> Call Now</h3>
-                        <span>(+91)92607 78443</span>
-                        <<h3></h3>
-                        <span>(+91)93231 73818</span>
+                        <h3> <i class="fa fa-phone my-float"></i>Call Now</h3>
+                        <span class="contact-no">(+91)92607 78443</span><br />
+                        <span class="contact-no">(+91)98921 19385</span><br />
+                        <span class="contact-no">(+91)93231 73818</span>
                      </div>
                   </div>
                </div>

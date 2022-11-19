@@ -1029,40 +1029,6 @@ nav.main-menu {
 }
 .d_flex {display: flex; align-items: center; justify-content: center;}
 
-@media screen and (max-width: 600px){
-
-    
-
-     .text-bg h1 {
-          visibility: hidden;
-          color: rgb(248, 242, 242);
-          padding-top: 50px;
-          font-size: 40px;
-          line-height: 94px;
-         padding-bottom: 5px;
-         font-weight: bold;
-      }
-      
-      .text-bg span {
-          visibility: hidden;
-         font-size:25px;
-          display: block;
-          color: rgb(249, 245, 245);
-          line-height: 35px;
-          padding-bottom: 50px;
-      }
-
-      a.carousel-control-prev.btn_prev {
-        right: 5px !important;
-        left: unset;
-    }
-    .carousel-inner
-    {
-        padding-left: 0px !important;
-    }
-    
-
-}
 .text-bg h1 {
     color: rgb(239, 232, 232);
     padding-top: 50px;
@@ -1129,9 +1095,8 @@ nav.main-menu {
 
 /** about section **/
 .Best {
-   
-    padding-top:90px;
-
+    /* padding-top:90px; */
+    padding-top:55px;
 }
 
 .Best .titlepage {
@@ -1238,13 +1203,8 @@ left: -80px;
 background-repeat: no-repeat;
 }
 
-.best_img.croos_rt {
-   margin-top: 80px;
-}
-
-
 .d_none {
-position: inherit;
+    position: inherit;
 }
 .d_none {margin-top: 80px;}
 .d_none::after {
@@ -1659,7 +1619,8 @@ img.img-fluid.mx-auto.d-block {
 
 a.carousel-control-next.text-faded.btn_next{
     background-color: black;
-    left: -32px !important;
+    /* left: -32px !important; */
+    left: -41px !important;
     width: 42px !important;
 }
 
@@ -1677,3 +1638,176 @@ a.carousel-control-prev.btn_prev {
 .sr-only{
     display: contents;
 }
+span.contact-no {
+    line-height: 52px;
+    font-size: 30px;
+}
+
+
+@media (max-width: 575px){
+    .contact-no{
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width: 600px){
+     .text-bg h1 {
+          visibility: hidden;
+          color: rgb(248, 242, 242);
+          padding-top: 50px;
+          font-size: 40px;
+          line-height: 94px;
+         padding-bottom: 5px;
+         font-weight: bold;
+      }
+      
+      .text-bg span {
+          visibility: hidden;
+         font-size:25px;
+          display: block;
+          color: rgb(249, 245, 245);
+          line-height: 35px;
+          padding-bottom: 50px;
+      }
+
+      a.carousel-control-prev.btn_prev {
+        right: 5px !important;
+        left: unset;
+    }
+    .carousel-inner
+    {
+        padding-left: 0px !important;
+    }
+    .logo a img {
+        margin-left:-9%;
+        margin-top:-10%;
+        max-width: 120%;
+    }
+    .mean-container .mean-bar{
+        margin-top: -83px;
+    }
+    .contact-no{
+        font-size: 30px !important;
+    }
+    .how_it_work {
+        font-size: 17px;
+        text-align: center;
+        padding: 21px;
+        font-weight: 500;
+    }
+    .titlepage {
+        text-align: center;
+        padding-bottom: 20px !important;
+    }
+    .best_img.croos_rt {
+        margin-top: 0px;
+    }
+    .gallery_section {
+        margin-top: 41px;
+    }
+    .carousel-inner {
+        padding-left: 20px !important;
+    }
+}
+
+
+
+/* For Desktop View */
+@media screen and (min-width: 1024px) {
+    .mobile_view,.bannerMobileImg{
+        display: none;
+    }
+    .desktop_view, .bannerDestopImg{
+        display: block;
+    }
+    .how_it_work {
+        font-size: 27px;
+        text-align: center;
+        font-weight: inherit;
+    }
+    .bannerDestopImg{
+        margin-left: 134px;
+    }
+    .best_img.croos_rt {
+        margin-top: 80px;
+    }
+    .carousel-item {
+        margin-left: -9px !important;
+    }
+  }
+   
+  /* For Tablet View */
+  @media screen and (min-device-width: 768px)
+  and (max-device-width: 1024px) {
+    .desktop_view,.bannerDestopImg{
+        display: none;
+    }
+    .mobile_view,.bannerMobileImg{
+        display: block;
+    }
+  }
+   
+  /* For Mobile Portrait View */
+  @media screen and (max-device-width: 480px)
+  and (orientation: portrait) {
+    .desktop_view,.bannerDestopImg{
+        display: none;
+    }
+    .mobile_view,.bannerMobileImg{
+        display: block;
+    }
+  }
+   
+  /* For Mobile Landscape View */
+  @media screen and (max-device-width: 640px)
+  and (orientation: landscape) {
+    .desktop_view,.bannerDestopImg{
+        display: none;
+    }
+    .mobile_view,.bannerMobileImg{
+        display: block;
+    }
+  }
+   
+  /* For Mobile Phones Portrait or Landscape View */
+  @media screen and (max-device-width: 640px) {
+    .desktop_view,.bannerDestopImg{
+        display: none;
+    }
+    .mobile_view,.bannerMobileImg{
+        display: block;
+    }
+  }
+   
+  /* For iPhone 4 Portrait or Landscape View */
+  @media screen and (min-device-width: 320px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    .desktop_view,.bannerDestopImg{
+        display: none;
+    }
+    .mobile_view,.bannerMobileImg{
+        display: block;
+    }
+  }
+   
+  /* For iPhone 5 Portrait or Landscape View */
+  @media (device-height: 568px) and (device-width: 320px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    .desktop_view,.bannerDestopImg{
+        display: none;
+    }
+    .mobile_view,.bannerMobileImg{
+        display: block;
+    }
+  }
+   
+  /* For iPhone 6 and 6 plus Portrait or Landscape View */
+  @media (min-device-height: 667px) and (min-device-width: 375px)
+  and (-webkit-min-device-pixel-ratio: 3) {
+    .desktop_view,.bannerDestopImg{
+        display: none;
+    }
+    .mobile_view,.bannerMobileImg{
+        display: block;
+    }
+  }

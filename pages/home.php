@@ -6,8 +6,15 @@
             <div class="row">
                <div class="col-md-12">
                   <div class="titlepage">
+                     <p class="how_it_work"> Whatever your budget preference or specific requirements, We strive to make all your Jewellery.</p>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-md-12">
+                  <div class="titlepage">
                      <h2>How it works?</h2>
-                     <p> Whatever your budget preference or specific requirements, We strive to make all your Jewellery.</p>
+                     <!-- <p> Whatever your budget preference or specific requirements, We strive to make all your Jewellery.</p> -->
                   </div>
                </div>
             </div>
@@ -16,8 +23,9 @@
                   <div class="best_main">
                      <div class="row d_flex">
                         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
-                           <div class="best_text">
-                              <p><h2>CHOOSE YOUR <b>SETTING</b></h2></p>
+                           <div class="best_text how_it_work">
+                              <!-- <p><h2>CHOOSE YOUR <b>SETTING</b></h2></p> -->
+                              <span>Choose the shape and outer diameter of plates required jewellery.</span>
                               <!-- <a href="#">See More</a> -->
                            </div>
                         </div>
@@ -29,7 +37,7 @@
                         </div>
                      </div>
                   </div>
-                  <div class="best_main">
+                  <div class="best_main desktop_view">
                      <div class="row d_flex">
                         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
                            <div class="best_img croos_rt">
@@ -38,9 +46,28 @@
                            </div>
                         </div>
                         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
-                           <div class="best_text flot_left">
-                              <p><h2>    CHOOSE YOUR <b>DIAMOND</b></h2></p>
+                           <div class="best_text flot_left how_it_work">
+                              <!-- <p><h2>    CHOOSE YOUR <b>DIAMOND</b></h2></p> -->
+                              <span>Select the diamond size and shape.</span>
                               <!-- <a href="#">See More</a> -->
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+
+                  <div class="best_main mobile_view">
+                     <div class="row d_flex">
+                        <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
+                           <div class="best_text flot_left how_it_work">
+                              <!-- <p><h2>    CHOOSE YOUR <b>DIAMOND</b></h2></p> -->
+                              <span>Select the diamond size and shape.</span>
+                              <!-- <a href="#">See More</a> -->
+                           </div>
+                        </div>
+                        <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
+                           <div class="best_img croos_rt">
+                              <!-- <h4>Design you can trust</h4> -->
+                              <figure><img src="https://graphics.jst.ai/108659_811202013917PM_0.4996912_.jpg"></figure>
                            </div>
                         </div>
                      </div>
@@ -48,15 +75,18 @@
                   <div class="best_main pa_bot">
                      <div class="row d_flex">
                         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
-                           <div class="best_text">
-                              <p><h2>SEE YOUR <b>PERSONALISED RING</b></h2></p>
-                              <!-- <a href="#">See More</a> -->
+                           <div class="best_text how_it_work">
+                              <!-- <p><h2>SEE YOUR <b>PERSONALISED RING</b></h2></p> -->
+                              <span>Choose the faceting required on the plate, from our collection.</span>
                            </div>
                         </div>
                         <div class="col-xl-5 col-lg-5 col-md-5 col-sm-12">
                            <div class="best_img d_none">
                               <!-- <h4>Jewellery to remember</h4> -->
-                              <figure><img src="https://graphics.jst.ai/108659_1125202065233AM_0.9863397_.jpg"></figure>
+                              <figure>
+                                 <!-- <img src="https://graphics.jst.ai/108659_1125202065233AM_0.9863397_.jpg"> -->
+                                 <img src="images/galllery/9.png">
+                              </figure>
                            </div>
                         </div>
                      </div>
