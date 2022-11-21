@@ -1679,9 +1679,10 @@ span.contact-no {
         padding-left: 0px !important;
     }
     .logo a img {
-        margin-left:-9%;
+        margin-left:-4%;
         margin-top:-10%;
-        max-width: 120%;
+        max-width: 103%;
+        height: 215px;
     }
     .mean-container .mean-bar{
         margin-top: -83px;
