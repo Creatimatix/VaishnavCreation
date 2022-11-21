@@ -15,7 +15,7 @@
       <!-- bootstrap css -->
       <link rel="stylesheet" href="css/bootstrap.min.css">
       <!-- style css -->
-      <link rel="stylesheet" href="css/style.css?<?php echo date('dmyhi'); ?>">
+      <link rel="stylesheet" href="css/style.css?=<?php echo date('dmyhi'); ?>">
       <!-- Responsive-->
       <link rel="stylesheet" href="css/responsive.css">
       <!-- fevicon -->
