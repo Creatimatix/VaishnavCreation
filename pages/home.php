@@ -25,7 +25,7 @@
                         <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                            <div class="best_text how_it_work">
                               <!-- <p><h2>CHOOSE YOUR <b>SETTING</b></h2></p> -->
-                              <span>Choose the shape and outer diameter of plates required jewellery.</span>
+                              <span>Choose the shape and outer diameter of plates required for jewellery.</span>
                               <!-- <a href="#">See More</a> -->
                            </div>
                         </div>

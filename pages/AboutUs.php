@@ -85,7 +85,7 @@
     </div>
     <div class="slogan">
         <center>
-            <h3 style="font-size: 27px; color: rgb(255, 199, 44);; font-family: 'bodoniflfmedium_italic'; font-style: italic;">Whatever your budget prefrence or specific requirements. We strive to make all your jewellery.</h3>
+            <h3 style="font-size: 27px; color: rgb(255, 199, 44);; font-family: 'bodoniflfmedium_italic'; font-style: italic;">Whatever your budget preference or specific requirements. We strive to make all your jewellery.</h3>
         </center>
     </div>
     </div>

@@ -1679,11 +1679,13 @@ span.contact-no {
         padding-left: 0px !important;
     }
     .logo a img {
-        margin-left: -15%;
+        margin-left: 3%;
         margin-top: -10%;
         height: 215px;
-        width: 348px;
+        width: 327px;
     }
+    
+    
     .mean-container .mean-bar{
         margin-top: -70px;
     }
